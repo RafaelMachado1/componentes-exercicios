@@ -1,8 +1,8 @@
 import React from "react";
-import Usuario from "./Componentes/Img/Usuario.png"
+import Usuario from "./Img/Usuario.png"
 
 export function InfosUsuario() {
-    const nomeUsuario = "Aline"
+    const nomeUsuario = "Rafael"
     return (
         <>
             <div className="usuario">
